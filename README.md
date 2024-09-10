@@ -3,6 +3,7 @@
 🚀 Currently working on:
 
 DiscreetLock: A mobile security app designed to activate a fake screen with a panic password to protect personal information in emergencies.
+
 🌟 Skills:
 
 Programming Languages: Python, JavaScript, Java, Swift, Kotlin
