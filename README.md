@@ -1,25 +1,46 @@
-👋 Hi there! I'm Marcelo, a Software Engineer, with a passion for developing innovative software solutions. I love working on projects that involve projects devs
+<h1 align="center">Olá, eu sou o Marcelo Fontinele 👋</h1>
 
-🚀 Currently working on:
+<p align="center">
+  👷‍♂️ Engenheiro Civil & de Software | 📊 Criptoentusiasta | 👨‍🏫 Educador | 🔐 Explorando APIs e Blockchain
+</p>
 
-DiscreetLock: A mobile security app designed to activate a fake screen with a panic password to protect personal information in emergencies.
+---
 
-🌟 Skills:
+🚀 Sobre mim
 
-Programming Languages: Python, JavaScript, Java, Swift, Kotlin
-Mobile Development: Android, iOS, React Native, Flutter
-Web Development: HTML, CSS, JavaScript, Django, Flask
-Version Control: Git, GitHub, GitLab
-Databases: MySQL, PostgreSQL, MongoDB, SQLite
-APIs: RESTful APIs, GraphQL, API Integration
-Security: Encryption, User Authentication, Mobile Security, Data Protection
-Cloud Platforms: AWS, Firebase, Heroku
-Testing: Unit Testing, Selenium, PyTest, JUnit
-CI/CD: Jenkins, Travis CI, GitHub Actions
-Agile/Scrum Methodologies
-UI/UX Design: Figma, Adobe XD, Prototyping
+Sou apaixonado por construir coisas — sejam casas, sistemas ou ideias. Atualmente, estou focado em desenvolvimento web com Node.js, API REST, MongoDB e aplicações voltadas ao mercado de criptoativos. Também atuo como engenheiro de segurança do trabalho e educador.
 
-🔗 Connect with me:
-https://www.linkedin.com/in/marcelo-fontinele-1b2354165
+- 🔭 Projeto atual: API para monitoramento de preços de criptomoedas
+- 🌱 Estudando: Web3, Docker e CI/CD
+- ⚡ Curiosidade: Já desenvolvi desde jogos matemáticos até estudos sobre gravidade em fluidos!
 
-Feel free to check out my repositories and reach out if you want to collaborate or just have a chat! ;)
+---
+
+🛠️ Tecnologias & Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+---
+
+ 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FontineleCod&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FontineleCod&layout=compact&theme=radical" />
+</p>
+
+---
+
+ 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-fontinele/)
+- 🌐 [Site Profissional](https://www.engemf.com)  
+- 📬 Email: marcelofontinele@icloud.com
+
+---
