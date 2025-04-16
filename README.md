@@ -39,8 +39,9 @@ Sou apaixonado por construir coisas — sejam casas, sistemas ou ideias. Atualme
 
  📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-fontinele/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/marcelo-fontinele-1b2354165/)
 - 🌐 [Site Profissional](https://www.engemf.com)  
 - 📬 Email: marcelofontinele@icloud.com
+- Blog [https://universopluralbr.blogspot.com]
 
 ---
