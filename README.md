@@ -10,7 +10,7 @@
 
 Sou apaixonado por construir coisas — sejam casas, sistemas ou ideias. Atualmente, estou focado em desenvolvimento web com Node.js, API REST, MongoDB e aplicações voltadas ao mercado de criptoativos. Também atuo como engenheiro de segurança do trabalho e educador.
 
-- 🔭 Projeto atual: API para monitoramento de preços de criptomoedas
+- 🔭 Projeto atual: Andarilho digital 
 - 🌱 Estudando: Web3, Docker e CI/CD
 - ⚡ Curiosidade: Já desenvolvi desde jogos matemáticos até estudos sobre gravidade em fluidos!
 
