@@ -1,22 +1,22 @@
-<h1 align="center">Olá, eu sou o Marcelo Fontinele 👋</h1>
+<h1 align="center">Olá, eu sou o Marcelo Fontinele </h1>
 
 <p align="center">
-  👷‍♂️ Engenheiro Civil & de Software | 📊 Criptoentusiasta | 👨‍🏫 Educador | 🔐 Explorando APIs e Blockchain
+  👷‍♂️ Engenheiro Civil & Software | 📊 Criptoentusiasta | 👨‍🏫 Educador | 🔐 Explorando APIs e Blockchain
 </p>
 
 ---
 
-🚀 Sobre mim
+Sobre mim
 
 Sou apaixonado por construir coisas — sejam casas, sistemas ou ideias. Atualmente, estou focado em desenvolvimento web com Node.js, API REST, MongoDB e aplicações voltadas ao mercado de criptoativos. Também atuo como engenheiro de segurança do trabalho e educador.
 
-- 🔭 Projeto atual: Andarilho digital 
-- 🌱 Estudando: Web3, Docker e CI/CD
-- ⚡ Curiosidade: Já desenvolvi desde jogos matemáticos até estudos sobre gravidade em fluidos!
+- Projeto atual: Andarilho digital 
+- Estudando: Web3, Docker e CI/CD
+- Curiosidade: Já desenvolvi desde jogos matemáticos até estudos sobre gravidade em fluidos!
 
 ---
 
-🛠️ Tecnologias & Ferramentas
+Tecnologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -28,7 +28,7 @@ Sou apaixonado por construir coisas — sejam casas, sistemas ou ideias. Atualme
 
 ---
 
- 📈 GitHub Stats
+ GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=FontineleCod&show_icons=true&theme=radical&count_private=true" />
@@ -37,11 +37,10 @@ Sou apaixonado por construir coisas — sejam casas, sistemas ou ideias. Atualme
 
 ---
 
- 📫 Contato
+ Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-fontinele-1b2354165/)
-- 🌐 [Site Profissional](https://www.engemf.com) 
-- 📬 Email: marcelofontinele@icloud.com
+- [LinkedIn](https://www.linkedin.com/in/marcelo-fontinele-1b2354165/) 
+- Email: marcelofontinele@icloud.com
 - Blog [https://universopluralbr.blogspot.com]
 
 ---
